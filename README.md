@@ -1,6 +1,10 @@
 # Docker container to host connection (for osx only)
 This repo features a summary of steps to be able to connect to your host machine's localhost projects from inside a Docker container.
 
+**TLDR** (3 years later) just use Ngrok :)  
+
+---
+
 ### Local environment
 - OSX Mojave 10.14.6
 - Docker Version: 19.03.2
